@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d6740d0-92f9-4ed7-b13b-50ef7e1ec7db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AboutBox1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AboutBox1.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Shaders/Fragment.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MainForm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Shaders/FragmentParameter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MainForm.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Shaders/Utils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MainForm.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Shaders/Technique.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Shaders/ShaderDictionary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Shaders/ShaderParameter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Shaders/Annotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Shaders/Values/ValueFloat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AppUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EAC4D029-F96C-4D1E-B138-104CE063E8D8/67/fc3d9d2e/RichTextBoxEnh.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AboutBox1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AboutBox1.cs" />
+        <option value="$PROJECT_DIR$/AppUtil.cs" />
+        <option value="$PROJECT_DIR$/Properties/AssemblyInfo.cs" />
+        <option value="$PROJECT_DIR$/RichTextBoxFind/RichTextBoxEnh.Designer.vb" />
+        <option value="$PROJECT_DIR$/RichTextBoxFind/DlgFind.Designer.vb" />
+        <option value="$PROJECT_DIR$/MainForm.Designer.cs" />
+        <option value="$PROJECT_DIR$/Shaders/Fragment.cs" />
+        <option value="$PROJECT_DIR$/MainForm.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bfnimpjGXSyDE7Hfs4bNPIBQtf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RageShaderInfo" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/RageShaderInfo.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589032505509">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="294" y="160" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1589032505509" />
+    <state x="595" y="208" key="#xdebugger.evaluate" timestamp="1589038942165">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="595" y="208" key="#xdebugger.evaluate/0.0.1680.1010@0.0.1680.1010" timestamp="1589038942165" />
+    <state x="688" y="451" key="Assembly removing confirmation dialog" timestamp="1589041121700">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="688" y="451" key="Assembly removing confirmation dialog/0.0.1680.1010@0.0.1680.1010" timestamp="1589041121700" />
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom" timestamp="1589060801258">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1589060801258" />
+    <state width="1637" height="272" key="GridCell.Tab.0.center" timestamp="1589060801258">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1589060801258" />
+    <state width="1637" height="272" key="GridCell.Tab.0.left" timestamp="1589060801258">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1589060801258" />
+    <state width="1637" height="272" key="GridCell.Tab.0.right" timestamp="1589060801258">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1589060801258" />
+    <state width="1637" height="336" key="GridCell.Tab.1.bottom" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.1.center" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.1.left" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.1.right" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.2.bottom" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.2.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.2.center" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.2.center/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.2.left" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.2.left/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.2.right" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.2.right/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.3.bottom" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.3.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.3.center" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.3.center/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.3.left" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.3.left/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.3.right" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.3.right/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.4.bottom" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.4.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.4.center" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.4.center/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.4.left" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.4.left/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state width="1637" height="336" key="GridCell.Tab.4.right" timestamp="1589038965843">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="336" key="GridCell.Tab.4.right/0.0.1680.1010@0.0.1680.1010" timestamp="1589038965843" />
+    <state x="341" y="147" key="SettingsEditor" timestamp="1589033966498">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1589033966498" />
+    <state x="619" y="371" key="ToolboxManager" timestamp="1589040730432">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="619" y="371" key="ToolboxManager/0.0.1680.1010@0.0.1680.1010" timestamp="1589040730432" />
+    <state width="848" height="513" key="XDebugger.FullValuePopup" timestamp="1589038864653">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="848" height="513" key="XDebugger.FullValuePopup/0.0.1680.1010@0.0.1680.1010" timestamp="1589038864653" />
+    <state x="518" y="237" width="644" height="536" key="find.popup" timestamp="1589036873568">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="518" y="237" width="644" height="536" key="find.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1589036873568" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Shaders/Fragment.cs</url>
+          <line>55</line>
+          <properties documentPath="$PROJECT_DIR$/Shaders/Fragment.cs" initialLine="55">
+            <startOffsets>
+              <option value="2063" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2147" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

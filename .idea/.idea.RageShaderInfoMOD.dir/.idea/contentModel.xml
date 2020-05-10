@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\portable\dev\RageShaderInfo\RageShaderInfoMOD" t="IncludeRecursive">
+      <e p="AboutBox1.cs" t="Include" />
+      <e p="AboutBox1.Designer.cs" t="Include" />
+      <e p="AboutBox1.resx" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="MainForm.cs" t="Include" />
+      <e p="MainForm.Designer.cs" t="Include" />
+      <e p="MainForm.resx" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="RageShaderInfo.csproj" t="IncludeRecursive" />
+      <e p="Shaders" t="Include">
+        <e p="Annotation.cs" t="Include" />
+        <e p="Fragment.cs" t="Include" />
+        <e p="FragmentParameter.cs" t="Include" />
+        <e p="Pass.cs" t="Include" />
+        <e p="SamplerStateType.cs" t="Include" />
+        <e p="ShaderDictionary.cs" t="Include" />
+        <e p="ShaderParameter.cs" t="Include" />
+        <e p="Technique.cs" t="Include" />
+        <e p="Utils.cs" t="Include" />
+        <e p="Values" t="Include">
+          <e p="Value.cs" t="Include" />
+          <e p="ValueBool.cs" t="Include" />
+          <e p="ValueFloat.cs" t="Include" />
+          <e p="ValueFloat2.cs" t="Include" />
+          <e p="ValueFloat3.cs" t="Include" />
+          <e p="ValueFloat4.cs" t="Include" />
+          <e p="ValueFloat4x3.cs" t="Include" />
+          <e p="ValueFloat4x4.cs" t="Include" />
+          <e p="ValueInt.cs" t="Include" />
+          <e p="ValueList.cs" t="Include" />
+          <e p="ValueSamplerState.cs" t="Include" />
+          <e p="ValueString.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+    <e p="C:\Users\Yuriy\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Yuriy\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.00" t="ExcludeRecursive" />
+  </component>
+</project>
